@@ -1,6 +1,6 @@
 # 🏋 Zander Dumont-Strom
 
-I'm a Computer Science BS Student at the University of California, Santa Cruz. I have built many of my coding projects from the ground up, from planning and designing to problem solving. The next step in my coding journey is to get an internship and apply my skills to the real world. I am excited to create code that solves real-world problems and apply the skills I have learned in the classroom.
+I'm a Computer Science BS Student at the University of California, Santa Cruz. The next step in my programming journey is to get an internship and apply my skills to the real world. I am excited to create code that solves real-world problems and apply the skills I have learned in the classroom.
 
 ---
 
