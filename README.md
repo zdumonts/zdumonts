@@ -4,7 +4,7 @@ I'm a Computer Science BS Student at the University of California, Santa Cruz in
 
 ---
 
-### 🧰Languages and Tools
+### 🧰 Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c,cpp,linux,ubuntu,bash,vim,git)](https://skillicons.dev)
 
