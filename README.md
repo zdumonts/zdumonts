@@ -16,4 +16,4 @@ I'm a Computer Science BS Student at the University of California, Santa Cruz in
 
 ### 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdumonts&hide_progress=false)
