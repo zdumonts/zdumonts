@@ -1,6 +1,6 @@
 # 🏋 Zander Dumont-Strom
 
-I'm a Computer Science BS Student at the University of California, Santa Cruz interested in computer graphics, compilers, operating systems, and low level programming. 
+I'm a Computer Science BS Student at the University of California, Santa Cruz interested in graphics, compilers, operating systems, and low level programming. 
 
 ---
 
