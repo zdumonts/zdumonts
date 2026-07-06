@@ -1,6 +1,6 @@
 # 🏋 Zander Dumont-Strom
 
-I'm a Computer Science BS Student at the University of California, Santa Cruz interested in operating systems, compilers, and concurrency. 
+Recent computer science grad from UCSC.
 
 ---
 
